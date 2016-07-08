@@ -1,3 +1,7 @@
+ez_setup.py
+setuptools-24.0.2.zip
+people_wiki.gl/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
